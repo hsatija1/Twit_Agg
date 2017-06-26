@@ -1,0 +1,14 @@
+{
+  "name": "hsatija1",
+  "version": "1.0.0",
+  "description": "Challege for Conor Lamb 4/30/17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Lamb",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
